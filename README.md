@@ -1,21 +1,25 @@
 # beepsies-AI
 A little work in progress Open Source AI
-Made out of Python and Powershell.
+Made out of Python 2.7 and Powershell.
 
-
+# System requirements
+Python 2.7 or later but not Python 3.
+Have all of these modules installed:
+sys,
+webbrowser,
+random, 
+playsound.
 # Latest version
-Alpha 0.0.1
+Alpha 0.0.2
 Latest Changes:
 
-There's none yet
+Internet access.
 
 # Next Update
-Alpha 0.1.0 (there's private ones in between)
+Alpha 0.0.3
 Added changes:
 
-Voice
-
-Internet access
+No error with Python 3
 
 More Commands
 
