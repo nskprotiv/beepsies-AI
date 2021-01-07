@@ -1,6 +1,7 @@
 # beepsies-AI
-A little work in progress AI.
-Made out of Python and Powershell
+A little work in progress Open Source AI
+Made out of Python and Powershell.
+
 
 # Latest version
 Alpha 0.0.1
