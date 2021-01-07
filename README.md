@@ -17,3 +17,5 @@ Voice
 Internet access
 
 More Commands
+
+.exe Files and .py or .ps1 files
