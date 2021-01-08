@@ -3,7 +3,8 @@ A little work in progress Open Source AI
 Made out of Python 3 and Powershell.
 
 # System requirements
-Python 3
+Python 3.
+
 Have all of these modules installed:
 sys,
 webbrowser,
