@@ -13,6 +13,8 @@ random.
 Alpha 0.0.3
 Latest Changes:
 
+Python 3 support!
+
 Internet access.
 
 # Next Update
